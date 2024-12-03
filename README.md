@@ -21,7 +21,7 @@ Underwater image classification plays a critical role in marine biodiversity con
 - **Programming Languages**: Python
 - **Libraries**: TensorFlow, PyTorch, OpenCV, MMDetection
 - **Models**: Faster R-CNN, Boosting R-CNN
-- **Tools**: Jupyter Notebook, Visual Studio Code
+- **Tools**: Jupyter Notebook, Visual Studio Code, Google Colab
 
 ---
 
