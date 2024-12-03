@@ -15,15 +15,6 @@ Underwater image classification plays a critical role in marine biodiversity con
 
 ---
 
-## Key Sections in the Repository
-
-1. **Report**: Includes the full project documentation, detailing methodology, results, and comparative analysis.
-2. **Source Code**: Implementation scripts for preprocessing, training, and evaluating the Faster R-CNN and Boosting R-CNN models.
-3. **Dataset Preparation**: Scripts for preparing and augmenting the TrashCan dataset.
-4. **Results**: Graphs, tables, and qualitative results demonstrating model performance.
-5. **Future Scope**: Recommendations for improving underwater image classification systems.
-
----
 
 ## Technologies Used
 
